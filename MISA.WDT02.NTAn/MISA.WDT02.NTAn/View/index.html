@@ -1,0 +1,504 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>CUKCUK</title>
+    <link href="../Css/Index/index.css" rel="stylesheet" />
+    <LINK REL="SHORTCUT ICON" HREF="../Tài nguyên/logo1.png">
+    <link href="../Css/Library/jquery-ui.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="menu">
+        <div class="menu-item menu-1">CUKCUK</div>
+        <div class="menu-min">
+            <div class="menu-item menu-2">Tổng quan</div>
+            <div class="menu-item menu-3">Báo cáo</div>
+            <div class="menu-item menu-4">Mua hàng</div>
+            <div class="menu-item menu-5">Kho</div>
+            <div class="menu-item menu-6">Quỹ tiền mặt</div>
+            <div class="menu-item menu-7">Quỹ tiền gửi</div>
+            <div class="menu-item menu-8">Chi phí</div>
+            <div class="menu-item menu-9">Khuyến mãi</div>
+            <div class="menu-item menu-10">Thực đơn</div>
+            <div class="menu-item menu-11">Danh mục</div>
+            <div class="menu-item menu-12">Hủy hóa đơn</div>
+            <div class="menu-item menu-13">SMS maketing</div>
+            <div class="menu-item menu-14">Đối tác giao hàng</div>
+            <div class="menu-item menu-15">Hóa đơn điện tử</div>
+            <div class="menu-item menu-16">Thiết lập hệ thống</div>
+            <div class="menu-item menu-17">Trợ giúp</div>
+            <div class="menu-item menu-18">Thuê bao</div>
+            <div class="menu-item menu-19">5Food</div>
+        </div>
+
+    </div>
+    <div class="header1">
+        <div class="header1-left">
+            <select class="hd1-slect1">
+                <option value="value">Nhà hàng biển đông</option>
+                <option value="value">Đại dương xanh</option>
+            </select>
+
+        </div>
+        <div class="header1-right">
+            <div class="similar user" title="thông tin khách hàng">
+                <div class="user-img"></div>
+                <div class="user-name">Nguyễn Thành An</div>
+            </div>
+            <div class="similar support" title="liên hệ hỗ trợ"></div>
+            <div class="similar notify" title="thông báo"></div>
+            <select class="smimilar language" title="đổi ngôn ngữ">
+                <option value="value">Tiếng việt(tiếng việt)</option>
+            </select>
+        </div>
+
+    </div>
+    <div class="header2">
+        <div class="hd2-left">
+            <div class="hd2-left-1">Danh mục</div>
+            <div class="hd2-left-2">Khách hàng</div>
+        </div>
+        <div class="hd2-right">
+            <div class="hd2-backSet">Quay lại thiết lập ban đầu</div>
+            <div class="hd2-react">
+                <div class="hd2-react-1"></div>
+                <div class="hd2-react-2">Phản hồi</div>
+            </div>
+        </div>
+    </div>
+    <div class="toolbar">
+        <button class="toolbar-item add" title="thêm">
+            <div class="icon add-new"></div>
+            <span>Thêm</span>
+        </button>
+
+        <button class="toolbar-item more" title="nhân bản" disabled>
+            <div class="icon nhanban"></div>
+            <span>Nhân Bản</span>
+        </button>
+
+        <button class="toolbar-item fix" title="sửa" disabled>
+            <div class="icon sua"></div>
+            <span>Sửa</span>
+        </button>
+        <button class="toolbar-item delete" title="xóa" disabled>
+            <div class="icon xoa"></div>
+            <span>Xóa</span>
+        </button>
+        <button class="toolbar-item reload" title="nạp">
+            <div class="icon nap"></div>
+            <span>Nạp</span>
+        </button>
+        <!-nhập khẩu---->
+        <button class="toolbar-item separate" title="nhập khẩu">
+            <div class="icon nhapkhau"></div>
+            <span>Nhập khẩu</span>
+        </button>
+        <button class="toolbar-item" title="xuất khẩu">
+            <div class="icon xuatkhau"></div>
+            <span>Xuất khẩu</span>
+        </button>
+        <button class="toolbar-item separate" title="gộp khách hàng">
+            <div class="icon gopkhachhang"></div>
+            <span>Gộp khách hàng</span>
+        </button>
+        <button class="toolbar-item separate" title="giúp đỡ từ nhà SX">
+            <div class="icon giup"></div>
+            <span>Giúp</span>
+        </button>
+        <div style="line-height: 1.6;">Trường</div>
+        <select style="width: 70px;margin: 0px 2px;" class="selectsearch">
+            <option value="MaKhachHang" selected>Mã KH</option>
+            <option value="TenKhachHang">Tên KH</option>
+        </select>
+        <div style="line-height: 1.6;">Giá Trị</div>
+        <input placeholder="nhập..." id="search-value" value="" style="width: 70px;    margin: 0px 7px;" />
+        <button id="search-data">Search</button>
+    </div>
+    <div class="table">
+        <table class="main-table">
+            <thead>
+                <tr>
+                    <th fieldname="MaKhachHang">
+                        <div class="thead-name">Mã khách hàng</div>
+                        <div class="thead-input">
+                            <div class="char">*</div>
+                            <input class="input-char" name="" value="" />
+                        </div>
+                    </th>
+
+                    <th fieldname="TenKhachHang">
+                        <div class="thead-name">Tên khách hàng</div>
+                        <div class="thead-input">
+                            <div class="char">*</div>
+                            <input class="input-char" name="" value="" />
+                        </div>
+                    </th>
+
+                    <th fieldname="TenCongTy">
+                        <div class="thead-name">Tên công ty</div>
+                        <div class="thead-input">
+                            <div class="char">*</div>
+                            <input class="input-char" name="" value="" />
+                        </div>
+                    </th>
+
+                    <th fieldname="MaSoThue">
+                        <div class="thead-name">Mã số thuế</div>
+                        <div class="thead-input">
+                            <div class="char">*</div>
+                            <input class="input-char" name="" value="" />
+                        </div>
+                    </th>
+
+                    <th fieldname="DiaChi">
+                        <div class="thead-name">Địa chỉ</div>
+                        <div class="thead-input">
+                            <div class="char">*</div>
+                            <input class="input-char" name="" value="" />
+                        </div>
+                    </th>
+
+                    <th fieldname="SoDienThoai">
+                        <div class="thead-name">Số điện thoại</div>
+                        <div class="thead-input">
+                            <div class="char">*</div>
+                            <input class="input-char" name="" value="" />
+                        </div>
+                    </th>
+
+                    <th fieldname="Email">
+                        <div class="thead-name">Email</div>
+                        <div class="thead-input">
+                            <div class="char">*</div>
+                            <input class="input-char" name="" value="" />
+                        </div>
+                    </th>
+
+                    <th fieldname="MaTheThanhVien">
+                        <div class="thead-name">Mã thẻ thành viên</div>
+                        <div class="thead-input">
+                            <div class="char">*</div>
+                            <input class="input-char" name="" value="" />
+                        </div>
+                    </th>
+
+                    <th fieldname="HangThe">
+                        <div class="thead-name">Hạng thẻ</div>
+                        <div class="thead-input">
+                            <div class="char">*</div>
+                            <input class="input-char" name="" value="" />
+                        </div>
+                    </th>
+
+                    <th fieldname="SoTienNo">
+                        <div class="thead-name">Số tiền nợ</div>
+                        <div class="thead-input">
+                            <div class="char">=</div>
+                            <input class="input-char" name="" value="" />
+                        </div>
+                    </th>
+                    <th fieldname="GhiChu">
+                        <div class="thead-name">Ghi chú</div>
+                        <div class="thead-input">
+                            <div class="char">*</div>
+                            <input class="input-char" name="" value="" />
+                        </div>
+                    </th>
+
+                    <th fieldname="ThanhVien5Food">
+                        <div class="thead-name only-input">Thành viên 5Food</div>
+                        <div class="thead-input">
+                            <input class="input-char only-input-1" name="" value="" />
+                            <div class="only-input-2"></div>
+                        </div>
+                    </th>
+
+                    <th fieldname="TheoDoi">
+                        <div class="thead-name only-input">Ngừng theo dõi</div>
+                        <div class="thead-input">
+                            <input class="input-char only-input-1" name="" value="" />
+                            <div class="only-input-2"></div>
+                        </div>
+                    </th>
+
+
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        <div id="load-data" >
+
+        </div>
+    </div>
+    <div class="break-page">
+        <button class="trang trangdau" disabled></button>
+        <button class="trang trangtruoc"></button>
+        <div class="pag-text" title="">Trang</div>
+        <input class="page-index" type="number" name="name" value="1" title="nhập sô trang cần đến (chỉ được nhập số)" />
+        <div class="pag-text" title="" id="pag-text">trên 1</div>
+        <button class="trang trangsau"></button>
+        <button class="trang trangcuoi"></button>
+        <button class="trang quaylai"></button>
+        <select class="page-size">
+            <option value="10">10</option>
+            <option value="25">25</option>
+            <option value="50" selected>50</option>
+            <option value="100">100</option>
+
+        </select>
+        <div class="pag-text page-info">Hiển thị 1-20 trên 20 kết quả</div>
+    </div>
+
+    <!--dialog khách hàng-start-->
+    <div id="dialog" title="Thêm mới khách hàng" style="display:none">
+
+        <div class="div-contaner">
+            <div class="div magrin">
+                <div class="div1 div-contaner">
+                    <div style="width:100px;height:100%">Mã khách hàng</div>
+                    <div class="dauSao" title="Trường không được để trống">(*)</div>
+                </div>
+                <input class="div2" type="type" name="name" value="" add-fieldname="MaKhachHang" id="makhachhang-add" />
+            </div>
+            <div class="div">
+                <div class="div1 div-contaner">
+                    <div style="width:100px;height:100%">Tên khách hàng</div>
+                    <div class="dauSao" title="Trường không được để trống">(*)</div>
+                </div>
+                <input class="div2" type="type" name="name" value="" add-fieldname="TenKhachHang" id="tenkhachhang-add" />
+            </div>
+        </div>
+
+        <div class="div-contaner">
+            <div class="div">
+                <div class="div1">
+                    Nhóm khách hàng
+                </div>
+                <input class="div2" type="" name="name" value="" add-fieldname="NhomKhachHang" />
+            </div>
+        </div>
+
+        <div class="div-contaner">
+            <div class="div">
+                <div class="div1 div-contaner">
+                    <div style="width:100px;height:100%">ĐT di động</div>
+                    <div class="dauSao" title="Trường không được để trống">(*)</div>
+                </div>
+                <input class="div2" type="" name="name" value="" add-fieldname="DienThoaiDiDong" id="sodienthoai-add" />
+            </div>
+        </div>
+
+        <div class="div-contaner">
+            <div class="div">
+                <div class="div1">
+                    Ngày sinh
+                </div>
+
+                <input class="special-input div2" type="" name="name" value="" add-fieldname="NgaySinh" />
+
+            </div>
+        </div>
+
+        <div class="div-contaner">
+            <div class="div1">
+                Tên công ty
+            </div>
+            <input class="div3 " type="" name="name" value="" add-fieldname="TenCongTy" />
+        </div>
+
+        <div class="div-contaner">
+            <div class="div magrin">
+                <div class="div1">
+                    Mã số thuế
+                </div>
+                <input class="div2" type="" name="name" value="" add-fieldname="MaSoThue" />
+            </div>
+            <div class="div">
+                <div class="div1">
+                    Email
+                </div>
+                <input class="div2" type="" name="name" value="" add-fieldname="Email" />
+            </div>
+        </div>
+
+        <div class="div-contaner">
+            <div class="div1">
+                Địa chỉ
+            </div>
+            <input class="div3 " type="" name="name" value="" add-fieldname="DiaChi" />
+        </div>
+
+        <div class="div-contaner">
+            <div class="div1">
+                Ghi chú
+            </div>
+            <input class="div3 div4" type="" name="name" value="" add-fieldname="GhiChu" />
+        </div>
+
+        <button class="dlg-btn" title="giúp đỡ">
+            <div class="icon giup"></div>
+            <span>Giúp</span>
+        </button>
+
+        <button class="dlg-btn dlg-cat" title="cất">
+            <div class="icon cat"></div>
+            <span>Cất</span>
+        </button>
+
+        <button class="dlg-btn dlg-catVaThem" title="cất và thêm">
+            <div class="icon catVaThem"></div>
+            <span>Cất & thêm</span>
+        </button>
+
+        <button class="dlg-btn dlg-huybo" title="hủy bỏ">
+            <div class="icon huybo"></div>
+            <span>Hủy bỏ</span>
+        </button>
+
+        <!--icon validate khi nhập sai-->
+        <div class="validate-icon" title="Mã khách hàng không hợp lệ"></div>
+        <div class="validate-icon-1" title="Tên khách hàng không hợp lệ"></div>
+        <div class="validate-icon-2" title="Số điện thoại không hợp lệ"></div>
+    </div>
+    <!--dialog-End-->
+    <!--dialog-fix-start--><!---->
+    <div id="dialog-fix" title="khách hàng" style="display:none">
+        <div class="div-contaner">
+            <div class="div magrin">
+                <div class="div1 div-contaner">
+                    <div style="width:100px;height:100%">Mã khách hàng</div>
+                    <div class="dauSao" title="Trường không được để trống">(*)</div>
+                </div>
+                <input class="div2" type="type" name="name" value="" fix-fieldname="MaKhachHang" />
+            </div>
+            <div class="div">
+                <div class="div1 div-contaner">
+                    <div style="width:100px;height:100%">Tên khách hàng</div>
+                    <div class="dauSao" title="Trường không được để trống">(*)</div>
+                </div>
+                <input class="div2" type="type" name="name" value="" fix-fieldname="TenKhachHang" />
+            </div>
+        </div>
+
+        <div class="div-contaner">
+            <div class="div">
+                <div class="div1">
+                    Nhóm khách hàng
+                </div>
+                <input class="div2" type="" name="name" value="" fix-fieldname="NhomKhachHang" />
+            </div>
+        </div>
+
+        <div class="div-contaner">
+            <div class="div">
+                <div class="div1 div-contaner">
+                    <div style="width:100px;height:100%">ĐT di động</div>
+                    <div class="dauSao" title="Trường không được để trống">(*)</div>
+                </div>
+                <input class="div2" type="" name="name" value="" fix-fieldname="SoDienThoai" />
+            </div>
+        </div>
+
+        <div class="div-contaner">
+            <div class="div">
+                <div class="div1">
+                    Ngày sinh
+                </div>
+
+                <input class="special-input div2" type="" name="name" value="" fix-fieldname="NgaySinh" />
+
+            </div>
+        </div>
+
+        <div class="div-contaner">
+            <div class="div1">
+                Tên công ty
+            </div>
+            <input class="div3 " type="" name="name" value="" fix-fieldname="TenCongTy" />
+        </div>
+
+        <div class="div-contaner">
+            <div class="div magrin">
+                <div class="div1">
+                    Mã số thuế
+                </div>
+                <input class="div2" type="" name="name" value="" fix-fieldname="MaSoThue" />
+            </div>
+            <div class="div">
+                <div class="div1">
+                    Email
+                </div>
+                <input class="div2" type="" name="name" value="" fix-fieldname="Email" />
+            </div>
+        </div>
+
+        <div class="div-contaner">
+            <div class="div1">
+                Địa chỉ
+            </div>
+            <input class="div3 " type="" name="name" value="" fix-fieldname="DiaChi" />
+        </div>
+
+        <div class="div-contaner">
+            <div class="div1">
+                Ghi chú
+            </div>
+            <input class="div3 div4" type="" name="name" value="" fix-fieldname="GhiChu" />
+        </div>
+
+        <button class="dlg-btn" title="giúp đỡ">
+            <div class="icon giup"></div>
+            <span>Giúp</span>
+        </button>
+
+        <button class="dlg-btn dlg-cat-fix" title="cất">
+            <div class="icon cat"></div>
+            <span>Cất</span>
+        </button>
+
+        <button class="dlg-btn dlg-catVaThem-fix" title="cất và thêm">
+            <div class="icon catVaThem"></div>
+            <span>Cất & thêm</span>
+        </button>
+
+        <button class="dlg-btn dlg-huybo-fix" title="hủy bỏ">
+            <div class="icon huybo"></div>
+            <span>Hủy bỏ</span>
+        </button>
+
+        <!--icon validate khi nhập sai-->
+        <div class="validate-icon" title="Mã khách hàng không hợp lệ"></div>
+        <div class="validate-icon-1" title="Tên khách hàng không hợp lệ"></div>
+        <div class="validate-icon-2" title="Số điện thoại không hợp lệ"></div>
+    </div>
+    <!--dialog-fix-end-->
+    <!---dialog xác nhận xóa 1 bản ghi---->
+    <div id="canhbaoxoa" style="display:none">
+        <div class="canhbaoxoa1"></div>
+        <div class="canhbaoxoa2"></div>
+        <button class="canhbaoxoa3">Có</button>
+        <button class="canhbaoxoa4">Không</button>
+    </div>
+    <!---dialog xác nhận hủy bỏ---->
+    <div id="canhbaohuybo" style="display:none">
+        <div class="canhbaohuybo1"></div>
+        <div class="canhbaohuybo2">Dữ liệu đã thay đổi, bạn có muốn cất không ?</div>
+        <button class="canhbaohuybo3">Không</button>
+        <button class="canhbaohuybo4">Hủy bỏ</button>
+        <button class="canhbaohuybo5">Có</button>
+    </div>
+    <script src="../Scripts/Library/jquery-3.4.1.js"></script>
+    <script src="../Scripts/Library/jquery-1.12.4.js"></script>
+    <script src="../Scripts/Library/jquery-ui.js"></script>
+
+    <script src="../Scripts/Index/common.js"></script>
+    <script src="../Scripts/Index/base_loadData.js"></script>
+    <script src="../Scripts/Index/base_add.js"></script>
+    <script src="../Scripts/Index/base_Delete.js"></script>
+    <script src="../Scripts/Index/baseFix.js"></script>
+    <script src="../Scripts/Index/search.js"></script>
+    <script src="../Scripts/Index/index.js"></script>
+</body>
+</html>

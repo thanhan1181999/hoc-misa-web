@@ -1,0 +1,755 @@
+﻿html, body {
+    height: 100%;
+    width: 100%;
+    background-color: white;
+}
+body {
+    margin: 0px;
+    font-family: 'Roboto',Tahoma,sans-serif !important;
+}
+.menu {
+    background-color: #026b97;
+    width: 230px;
+    height: 100%;
+}
+.menu-min {
+    position:absolute;
+    top:55px;
+    bottom:0;
+    width:230px;
+    overflow: auto;
+}
+/*header1*/
+.header1 {
+    background-color: #0061B7;
+    position: absolute;
+    top: 0;
+    left: 230px;
+    right: 0;
+    height: 55px;
+    display: flex;
+}
+.header1-left {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    left: 0px;
+    width: 35%;
+}
+.hd1-slect1 {
+    color: white;
+    width: 200px;
+    height: 32px;
+    margin-left: 21px;
+    background-color: #006188;
+    border: none;
+}
+    .hd1-slect1:hover{
+        cursor:pointer;
+    }
+    .header1-left .hd1-language {
+        color: white;
+        width: 200px;
+        height: 32px;
+        margin-left: 21px;
+        background-color: #006188;
+        border: none;
+    }
+.header1-right {
+     width: 65%;
+     height: 100%;
+     background-color: #0061B7;
+     display:flex;
+     align-items:center;
+}
+    .header1-right .similar {
+        height: 100%;
+    }
+        .header1-right .similar:hover {
+            background-color: #006188;
+            cursor:pointer;
+        }
+        .header1-right .user {
+            width: 181px;
+            display: flex;
+            align-items: center;
+            position: absolute;
+            right: 0;
+        }
+        .header1-right .user .user-img {
+            background-image: url('../../Tài nguyên/EmployeeImage.png');
+            background-color:white;
+            width: 28px;
+            height: 28px;
+            margin: 11px;
+            background-position: 1px 23px;
+            border-radius: 20px;
+        }
+        .header1-right .user .user-name {
+            height: 28px;
+            width: 75%;
+            line-height: 2;
+            font-size: 14px;
+            background-image: url('../../Tài nguyên/default-small-arrow.png');
+            background-repeat: no-repeat;
+            background-position: 113px 7px;
+            color:white;
+        }
+    .header1-right .support {
+        width: 65px;
+        background-image: url('../../Tài nguyên/ic_support.svg');
+        background-position: 0px 1px;
+        background-size: 68px;
+        position:absolute;
+        right:181px;
+    }
+    .header1-right .notify {
+        background-image: url('../../Tài nguyên/thông báo.jpg');
+        width: 52px;
+        background-color: pink;
+        background-position: 76px 184px;
+        background-size: 181px;
+        position: absolute;
+        right: 246px;
+    }
+    .header1-right .language {
+        color: white;
+        width: 170px;
+        position: absolute;
+        right: 301px;
+        height: 32px;
+        margin-left: 21px;
+        background-color: #006188;
+        border: none;
+    }
+        .header1-right .language:hover{
+            cursor:pointer;
+        }
+.header2 {
+    background-color: #e5e6eb;
+    position: absolute;
+    top: 55px;
+    left: 230px;
+    right: 0;
+    height: 45px;
+}
+.hd2-left {
+    position: absolute;
+    width: 303px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.hd2-left-1 {
+    background-image: url('../../Tài nguyên/page-next.png');
+    font-weight: 800;
+    padding: 12px;
+    background-repeat: no-repeat;
+    background-position: 93px 15px;
+}
+.hd2-left-2 {
+    margin-left: 5px;
+    font-size: 15px;
+    color: blue;
+}
+    .hd2-right {
+        position: absolute;
+        right: 0;
+        width: 303px;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    .hd2-right .hd2-backSet {
+        background-color: darkgrey;
+        width: 170px;
+        height: 28px;
+        font-size: 14px;
+        line-height: 1.9;
+        border: 1px solid darkgray;
+        border-radius: 4px;
+        margin-right: 16px;
+        text-align: center;
+    }
+.hd2-react:hover {
+    background-color: cornflowerblue !important;
+    cursor: pointer;
+    color: white;
+}
+.hd2-backSet:hover {
+    background-color: cornflowerblue !important;
+    cursor: pointer;
+    color: white;
+}
+    .hd2-right .hd2-react {
+        width: 100px;
+        height: 28px;
+        font-size: 14px;
+        line-height: 1.9;
+        border: 1px solid darkgray;
+        border-radius: 4px;
+        display: flex;
+        align-items: center;
+        background-color: darkgrey;
+    }
+    .hd2-right .hd2-react-1 {
+        width: 16px;
+        height: 16px;
+        font-size: 14px;
+        line-height: 1.9;
+        background-image: url('../../Tài nguyên/viewEmail.png');
+        background-repeat: no-repeat;
+        margin: 8px;
+    }
+
+.toolbar {
+    display: flex;
+    background-color: #EEEEEE;
+    position: absolute;
+    top: 108px;
+    left: 238px;
+    right: 8px;
+    height: 27px;
+}
+.table {
+    position: absolute;
+    top: 135px;
+    left: 238px;
+    right: 8px;
+    bottom: 34px;
+    overflow: auto;
+}
+.break-page {
+    /*background-color: azure;*/
+    position: absolute;
+    left: 238px;
+    right: 8px;
+    bottom: 8px;
+    height: 26px;
+    border: 0.5px solid #CCCCCC;
+    display: flex;
+    align-items: center;
+}
+
+/*phần menu*/
+.menu-item {
+    position: relative;
+    width: 230px;
+    height: 40px;
+    background-image: url('../../Tài nguyên/iconMenu.png');
+    background-color: #026b97;
+    background-repeat: no-repeat;
+    background-size: 32px;
+    color: white;
+    padding-left: 51px;
+    line-height: 2.4;
+    border-bottom: 1px solid gray;
+}
+
+.menu-1 {
+    position: relative;
+    height: 55px;
+    width: 230px;
+    background-color: #006189;
+    background-image: url('../../Tài nguyên/iconMenu.png');
+    background-repeat: no-repeat;
+    background-size: 40px;
+    background-position: 16px -587px;
+    color: aliceblue;
+    font-weight: 900;
+    font-size: 25px;
+    padding: 0px 0px 0px 64px;
+    line-height: 2.1;
+}
+.menu-2 {
+    background-position: 9px 3px;
+}
+.menu-3 {
+    background-position: 11px -214px;
+}
+.menu-4 {
+    background-position: 10px -472px;
+}
+.menu-5 {
+    background-position: 10px -39px;
+}
+
+.menu-6 {
+    background-position: 12px -84px;
+}
+
+.menu-7 {
+    background-image: url('../../Tài nguyên/icon-deposit.png') !important;
+    background-position: 14px 4px;
+    background-size: 26px;
+}
+.menu-8 {
+    background-image: url('../../Tài nguyên/icon-cost.png') !important;
+    background-position: 14px 5px;
+    background-size: 26px;
+}
+.menu-9 {
+    background-position: 12px -131px;
+}
+.menu-10 {
+    background-image: url('../../Tài nguyên/vector-smart-object.png');
+    background-position: 17px 3px;
+    background-size: 22px;
+}
+.menu-11 {
+    background-position: 14px -173px;
+}
+.menu-12 {
+    background-image: url('../../Tài nguyên/cancel-invoice.png');
+    background-position: 17px 3px;
+    background-size: 22px;
+}
+.menu-13 {
+    background-image: url('../../Tài nguyên/SMS_Menu.svg');
+    background-position: 18px 3px;
+    background-size: 19px;
+}
+.menu-14 {
+    background-image: url('../../Tài nguyên/ic_GH.svg');
+    background-position: 14px 3px;
+    background-size: 27px;
+}
+.menu-15 {
+    background-image: url('../../Tài nguyên/ic_hoadon.png');
+    background-position: 15px 3px;
+    background-size: 26px;
+}
+.menu-16 {
+    background-position: 12px -262px;
+}
+.menu-17 {
+    background-image: url('../../Tài nguyên/iconHelp.png');
+    background-position: 15px 8px;
+    background-size: 23px;
+}
+.menu-18 {
+    background-image: url('../../Tài nguyên/icon-subscriber.png');
+    background-position: 17px 8px;
+    background-size: 23px;
+}
+.menu-19 {
+    background-image: url('../../Tài nguyên/5food.png');
+    background-position: 17px 8px;
+    background-size: 23px;
+}
+.menu-item:hover{
+    background-color:steelblue;
+    cursor:pointer;
+}
+/*toolbar*/
+.toolbar-item {
+    border: none;
+    display: flex;
+    align-items: center;
+    padding-right: 10px;
+    background-color: #EEEEEE !important;
+}
+    .toolbar-item:hover{
+        cursor:pointer;
+        background-color:lightblue !important;
+    }
+    .icon {
+        width: 16px;
+        height: 16px;
+        margin: 0px 5px;
+        background-repeat: no-repeat;
+        
+    }
+.add-new {
+    background-image: url('../../Tài nguyên/add.png');
+    background-position: -2px -1px;
+    background-size: 18px;  
+}
+.nhanban {
+    background-image: url('../../Tài nguyên/nhanban.png');
+    background-size: 17px;
+}
+.sua {
+    background-image: url('../../Tài nguyên/Edit16.png');
+}
+.xoa {
+    background-image: url('../../Tài nguyên/clear.png');
+    background-size: 12px;
+    background-position: 1px 1px;
+}
+.nap {
+    background-image: url('../../Tài nguyên/nap.jpg');
+    background-size: 16px;
+    background-position: 0px 0px;
+    border-radius: 10px;
+}
+.nhapkhau {
+    background-image: url('../../Tài nguyên/Import16.png');
+}
+.xuatkhau {
+    background-image: url('../../Tài nguyên/excel_97_24.png');
+}
+.gopkhachhang {
+    background-image: url('../../Tài nguyên/ic_GopKhachHang.png');
+}
+.giup {
+    background-image: url('../../Tài nguyên/icon-question.png');
+    background-size: 16px;
+}
+.separate {
+    border-left: 1px solid slategrey;
+    border-right: 1px solid slategrey;
+}
+/*phần table*/
+td {
+    height:24px;
+    padding:0px 8px;
+}
+.main-table{
+    border-spacing:0px;
+    border-collapse:collapse;
+}
+thead {
+   
+}
+th {
+    background-color: #DDDDDD;
+    position: sticky;
+    top: -1px;
+    height: 55px;
+    line-height: 1.6;
+    padding: 0px;
+}
+.thead-name {
+    height: 31px;
+    border-top: 0.5px solid darkgray;
+    border-left: 0.5px solid darkgray;
+    border-right: 0.5px solid darkgray;
+}
+.thead-input {
+    height: 24px;
+    border: 0.5px solid darkgray;
+    display: flex;
+}
+    .thead-input .char {
+        width: 24px;
+        /*border: 0.5px solid darkgray;*/
+        height: 24px;
+    }
+    .thead-input .input-char {
+        width: calc(100%-49px);
+        height: 22px;
+        border: 0.5px solid darkgray;
+    }
+
+/*break page*/
+.trangdau {
+    background-image: url('../../Tài nguyên/page-first.png');
+}
+.trangtruoc {
+    background-image: url('../../Tài nguyên/page-prev.png');
+}
+.trangsau {
+    background-image: url('../../Tài nguyên/page-next.png');
+}
+.trangcuoi {
+    background-image: url('../../Tài nguyên/page-last.png');
+}
+.quaylai {
+    background-image: url('../../Tài nguyên/refresh.png');
+}
+.trang {
+    width: 25px !important;
+    background-repeat: no-repeat;
+    height: 21px;
+    background-position: 0px 0px;
+    margin: 0px 5px;
+}
+.trang:hover{
+    background-color:chartreuse;
+}
+.pag-text {
+    line-height: 1.5;
+    margin:0px 5px;
+}
+.page-info {
+    position: absolute;
+    right: 0;
+}
+.page-index {
+    height: 21px;
+    width: 38px;
+}
+.page-size {
+    width: 60px;
+    height: 24px;
+}
+.only-input{
+    width:200px;
+}
+.only-input-1 {
+    width: 170px;
+    border-right: none !important;
+    border-left: none !important;
+}
+.only-input-2 {
+    width: 28px;
+    background-image: url('../../Tài nguyên/default-small-arrow.png');
+    background-repeat: no-repeat;
+    background-position: 5px 5px;
+}
+/*phần dialog------------------------------------------------------------------*/
+.ui-dialog-titlebar{
+    background-color:blue!important;
+}
+.ui-button .ui-icon {
+    background-image: url('../../Tài nguyên/ui-icons_777777_256x240.png')!important;
+}
+.ui-button{
+    border-radius:2px!important;
+}
+.ui-widget.ui-widget-content {
+    border: 3px solid blue !important;
+}
+.ui-dialog {
+    padding: 0px!important;
+}
+
+
+.ui-widget-header {
+    border: 0px solid #dddddd!important;
+    border-radius:0px !important;
+    color:white!important;
+}
+#dialog, #dialog-fix {
+    margin: 8px;
+    padding: 0px;
+}
+    .div-contaner {
+        width: 100%;
+       
+        display:flex;
+    }
+    .div1 {
+        width: 125px;
+        font-size: 13px;
+        line-height: 1.7;
+    }
+    .div2 {
+        width: 189px;
+        height: 19px;
+        border: 0.5px solid darkgray;
+    }
+    .div3 {
+        width: 533px;
+        height: 19px;
+        border: 0.5px solid darkgray;
+        margin-bottom: 4px;
+    }
+    .div {
+        width: 317px;
+        display:flex;
+        margin-bottom:4px;
+    }
+#dialog .magrin, #dialog-fix .magrin {
+    margin-right: 29px;
+}
+    .special-input {
+        border: 0.5px solid darkgray;
+        width: 189px;
+        height: 100%;
+        background-image: url('../../Tài nguyên/date.png');
+        background-size: 18px;
+        background-repeat: no-repeat;
+        background-position: 169px 0px;
+    }
+    .div4 {
+        height: 49px !important;
+        margin-bottom: 12px !important;
+    }
+
+    .icon-help {
+        width:18px;
+        height:18px;
+        background-image: url('../../Tài nguyên/icon-question.png');
+        background-repeat:no-repeat;
+    }
+.dlg-btn {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 27px;
+    width: 78px;
+    display: flex;
+    border: 0.5px solid darkcyan;
+    background-color:white;
+}
+    .dlg-btn:hover{
+        background-color:#CCCCCC;
+        cursor:pointer;
+    }
+.dlg-cat, .dlg-cat-fix {
+    left: 318px !important;
+    width: 75px;
+}
+.dlg-catVaThem, .dlg-catVaThem-fix {
+    left: 418px !important;
+    width: 126px !important;
+}
+.dlg-huybo, .dlg-huybo-fix {
+    left: 564px !important;
+    width: 94px !important;
+}
+.cat {
+    background-image: url('../../Tài nguyên/Save16.png');
+}
+.catVaThem {
+    background-image: url('../../Tài nguyên/SaveAdd16.png');
+}
+.huybo {
+    background-image: url('../../Tài nguyên/Disable16.png');
+}
+/*------------------------------------------------------------*/
+.canhbaoxoa1,.canhbaohuybo1 {
+    background-color: green;
+    position: absolute;
+    top: 5px;
+    left: 15px;
+    height: 40px;
+    width: 40px;
+    background-image: url('../../Tài nguyên/icon-question.png');
+    background-repeat: no-repeat;
+    background-size: 40px;
+    border-radius: 20px;
+}
+.canhbaoxoa2, .canhbaohuybo2 {
+    position: absolute;
+    top: 5px;
+    left: 68px;
+    height: 40px;
+    width: 317px;
+    padding-top: 5px;
+}
+.canhbaoxoa3, .canhbaohuybo3 {
+    position: absolute;
+    top: 55px;
+    left: 224px;
+    height: 24px;
+    width: 75px;
+    border: 0.1px solid darkgrey;
+}
+.canhbaoxoa4, .canhbaohuybo4 {
+    position: absolute;
+    top: 55px;
+    left: 311px;
+    height: 24px;
+    width: 75px;
+    border: 0.1px solid darkgrey;
+}
+.canhbaohuybo5 {
+    position: absolute;
+    top: 55px;
+    left: 136px;
+    height: 24px;
+    width: 75px;
+    border: 0.1px solid darkgrey;
+}
+    .canhbaoxoa3:hover, .canhbaoxoa4:hover, .canhbaohuybo3:hover, .canhbaohuybo4:hover{
+        background-color: aquamarine;
+        cursor: pointer;
+    }
+/*lấy dữ liệu ra*/
+.text-left{
+    text-align:left;
+}
+#load-data {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 1px;
+    top: 1px;
+    background-image: url('../../Tài nguyên/loader.gif');
+    z-index: 20;
+    background-repeat: no-repeat;
+    background-position: 395px 0px;
+    background-color: white;
+}
+.text-center{
+    text-align:center;
+}
+.text-right {
+    text-align: right;
+}
+.canhbao{
+    border-color:red;
+}
+.disabled{
+    background-color:white!important;
+}
+.validate-icon {
+    background-image: url('../../Tài nguyên/chamthan.jpg') !important;
+    background-size: 21px;
+    z-index: 20;
+    background-color: red;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 1px;
+    left: 293px;
+    display:none;
+}
+.validate-icon-2 {
+    background-image: url('../../Tài nguyên/chamthan.jpg') !important;
+    background-size: 21px;
+    z-index: 20;
+    background-color: red;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 53px;
+    left: 293px;
+    display: none;
+}
+.validate-icon-1 {
+    background-image: url('../../Tài nguyên/chamthan.jpg') !important;
+    background-size: 21px;
+    z-index: 20;
+    background-color: red;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 1px;
+    right: 2px;
+    display: none;
+}
+
+.dauSao {
+    width: 25px;
+    height: 100%;
+    color: red;
+}
+.borderRed{
+    border-color:red!important;
+}
+.display{
+    display:block;
+}
+
+
+
+table tr:nth-child(odd) {
+    background-color: #fafafa;
+}
+
+table tr:nth-child(even) {
+    background-color: #ffffff;
+}
+tr:hover {
+    cursor: pointer;
+}
+table, th, td {
+    border: 1px solid #ccc;
+}
+.selected {
+    background-color: #d7e9f4!important;
+}

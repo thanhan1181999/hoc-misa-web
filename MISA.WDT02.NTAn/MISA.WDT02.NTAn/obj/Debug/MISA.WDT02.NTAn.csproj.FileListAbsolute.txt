@@ -1,0 +1,235 @@
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\MISA.WDT02.NTAn.dll.config
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\MISA.WDT02.NTAn.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\MISA.WDT02.NTAn.pdb
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\csc.exe
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\csc.exe.config
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\csc.rsp
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\csi.exe
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\csi.exe.config
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\csi.rsp
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.AppContext.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Console.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.IO.Compression.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.IO.Pipes.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Security.Claims.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.ValueTuple.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Xml.XPath.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\vbc.exe
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\vbc.exe.config
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\vbc.rsp
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\VBCSCompiler.exe
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\BL.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\DL.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\Entities.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\EntityFramework.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\EntityFramework.SqlServer.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\Newtonsoft.Json.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\System.Net.Http.Formatting.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\System.Web.Http.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\System.Web.Http.WebHost.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\BL.pdb
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\BL.dll.config
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\DL.pdb
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\DL.dll.config
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\Entities.pdb
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\Entities.dll.config
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\EntityFramework.xml
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\EntityFramework.SqlServer.xml
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\Newtonsoft.Json.xml
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\System.Net.Http.Formatting.xml
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\System.Web.Http.xml
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\System.Web.Http.WebHost.xml
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\obj\Debug\MISA.WDT02.NTAn.csprojAssemblyReference.cache
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\obj\Debug\MISA.WDT02.NTAn.csproj.CoreCompileInputs.cache
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\obj\Debug\MISA.WDT02.NTAn.csproj.CopyComplete
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\obj\Debug\MISA.WDT02.NTAn.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\MISA.WDT02.NTAn\obj\Debug\MISA.WDT02.NTAn.pdb
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\MISA.WDT02.NTAn.dll.config
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\MISA.WDT02.NTAn.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\MISA.WDT02.NTAn.pdb
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\csc.exe
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\csc.exe.config
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\csc.rsp
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\csi.exe
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\csi.exe.config
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\csi.rsp
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.AppContext.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Console.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.IO.Compression.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.IO.Pipes.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Security.Claims.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.ValueTuple.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Xml.XPath.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\vbc.exe
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\vbc.exe.config
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\vbc.rsp
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\VBCSCompiler.exe
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\BL.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\DL.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\Entities.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\EntityFramework.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\EntityFramework.SqlServer.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\Newtonsoft.Json.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\System.Net.Http.Formatting.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\System.Web.Http.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\System.Web.Http.WebHost.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\BL.pdb
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\BL.dll.config
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\DL.pdb
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\DL.dll.config
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\Entities.pdb
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\Entities.dll.config
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\EntityFramework.xml
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\EntityFramework.SqlServer.xml
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\Newtonsoft.Json.xml
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\System.Net.Http.Formatting.xml
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\System.Web.Http.xml
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\System.Web.Http.WebHost.xml
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\obj\Debug\MISA.WDT02.NTAn.csprojAssemblyReference.cache
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\obj\Debug\MISA.WDT02.NTAn.Properties.Resources.resources
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\obj\Debug\MISA.WDT02.NTAn.csproj.GenerateResource.cache
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\obj\Debug\MISA.WDT02.NTAn.csproj.CoreCompileInputs.cache
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\obj\Debug\MISA.WDT02.NTAn.csproj.CopyComplete
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\obj\Debug\MISA.WDT02.NTAn.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\MISA.WDT02.NTAn\obj\Debug\MISA.WDT02.NTAn.pdb
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\MISA.WDT02.NTAn.dll.config
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\MISA.WDT02.NTAn.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\MISA.WDT02.NTAn.pdb
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\csc.exe
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\csc.exe.config
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\csc.rsp
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\csi.exe
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\csi.exe.config
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\csi.rsp
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.AppContext.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Console.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.IO.Compression.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.IO.Pipes.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Security.Claims.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.ValueTuple.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Xml.XPath.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\vbc.exe
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\vbc.exe.config
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\vbc.rsp
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\VBCSCompiler.exe
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\BL.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\DL.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\Entities.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\EntityFramework.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\EntityFramework.SqlServer.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\Newtonsoft.Json.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\System.Net.Http.Formatting.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\System.Web.Http.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\System.Web.Http.WebHost.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\BL.pdb
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\BL.dll.config
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\DL.pdb
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\DL.dll.config
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\Entities.pdb
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\Entities.dll.config
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\EntityFramework.xml
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\EntityFramework.SqlServer.xml
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\Newtonsoft.Json.xml
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\System.Net.Http.Formatting.xml
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\System.Web.Http.xml
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\System.Web.Http.WebHost.xml
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\obj\Debug\MISA.WDT02.NTAn.csprojAssemblyReference.cache
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\obj\Debug\MISA.WDT02.NTAn.Properties.Resources.resources
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\obj\Debug\MISA.WDT02.NTAn.csproj.GenerateResource.cache
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\obj\Debug\MISA.WDT02.NTAn.csproj.CoreCompileInputs.cache
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\obj\Debug\MISA.WDT02.NTAn.csproj.CopyComplete
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\obj\Debug\MISA.WDT02.NTAn.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\MISA.WDT02.NTAn\obj\Debug\MISA.WDT02.NTAn.pdb

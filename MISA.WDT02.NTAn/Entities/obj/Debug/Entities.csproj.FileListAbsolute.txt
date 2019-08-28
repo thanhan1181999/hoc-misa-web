@@ -1,0 +1,40 @@
+C:\Users\An\source\repos\MISA.WDT02.NTAn\Entities\bin\Debug\Entities.dll.config
+C:\Users\An\source\repos\MISA.WDT02.NTAn\Entities\bin\Debug\Entities.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\Entities\bin\Debug\Entities.pdb
+C:\Users\An\source\repos\MISA.WDT02.NTAn\Entities\bin\Debug\EntityFramework.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\Entities\bin\Debug\EntityFramework.xml
+C:\Users\An\source\repos\MISA.WDT02.NTAn\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\An\source\repos\MISA.WDT02.NTAn\Entities\obj\Debug\Entities.Migrations.Initial.resources
+C:\Users\An\source\repos\MISA.WDT02.NTAn\Entities\obj\Debug\Entities.csproj.GenerateResource.cache
+C:\Users\An\source\repos\MISA.WDT02.NTAn\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\An\source\repos\MISA.WDT02.NTAn\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\An\source\repos\MISA.WDT02.NTAn\Entities\obj\Debug\Entities.dll
+C:\Users\An\source\repos\MISA.WDT02.NTAn\Entities\obj\Debug\Entities.pdb
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\Entities\bin\Debug\Entities.dll.config
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\Entities\bin\Debug\Entities.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\Entities\bin\Debug\Entities.pdb
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\Entities\bin\Debug\EntityFramework.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\Entities\bin\Debug\EntityFramework.xml
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\Entities\obj\Debug\Entities.Migrations.Initial.resources
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\Entities\obj\Debug\Entities.csproj.GenerateResource.cache
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\Entities\obj\Debug\Entities.dll
+C:\Users\An\Desktop\Hướng Dẫn Làm Web\MISA.WDT02.NTAn\Entities\obj\Debug\Entities.pdb
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\Entities\bin\Debug\Entities.dll.config
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\Entities\bin\Debug\Entities.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\Entities\bin\Debug\Entities.pdb
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\Entities\bin\Debug\EntityFramework.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\Entities\bin\Debug\EntityFramework.xml
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\Entities\obj\Debug\Entities.Migrations.Initial.resources
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\Entities\obj\Debug\Entities.csproj.GenerateResource.cache
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\Entities\obj\Debug\Entities.dll
+C:\Users\An\Desktop\library\MISA.WDT02.NTAn\Entities\obj\Debug\Entities.pdb
